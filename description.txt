@@ -1,0 +1,14 @@
+Opis: Stworzenie kolekcji zapytań dla podanych przypadków:
+
+● Dodanie trzech (3) nowych list - weryfikacja poprawnego dodania
+● Aktualizacja nazwy jednej (1) listy - weryfikacja poprawnej aktualizacji
+● Zamknięcie / Archiwizacja listy - weryfikacja poprawnego zamknięcia
+● Dodanie pięciu (5) kart na liście - weryfikacja poprawnego dodania
+● Aktualizacja nazwy jednej (1) karty - weryfikacja poprawnej aktualizacji
+● Usunięcie jednej (1) karty - weryfikacja poprawnego usunięcia
+● Zamknięcie / archiwizacja jednej (1) karty - weryfikacja poprawnego
+zamknięcia
+● Przeniesienie jednej (1) karty do innej listy - weryfikacja poprawnego
+przeniesienia
+● Utworzenie checklisty na jednej (1) karcie - weryfikacja poprawnego
+utworzenia
